@@ -1,0 +1,18 @@
+.time{
+    text-align: center;
+    padding: 32px;
+    width: 800px;
+    margin: auto;
+}
+
+
+.time h3{
+    font-size: 32px;
+    border-bottom: 4px solid ;
+    width: fit-content;
+    margin: auto;
+    display: block;
+    padding-bottom: 8px;
+    margin-bottom: 50px;
+    
+}
