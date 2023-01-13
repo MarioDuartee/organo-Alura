@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <img alt="Organo" src="./organo/public/imagens/projeto.png" width="100%">
+  <img alt="Organo" src="/organo/public/imagens/projeto.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
